@@ -1,0 +1,1 @@
+Slides from [Joshua Bloch](http://lcsd05.cs.tamu.edu/slides/keynote.pdf).
